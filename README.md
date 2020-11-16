@@ -1,11 +1,10 @@
 # DFA-NFA-eNFA-converter
-Infinite length input(operand) calculator for Class : *CAU-2020-2 OOP(Object Oriented Programming) - Project 1*
+DFA-NFA-eNFA converter for Class : *CAU-2020-2 Automata And Formal Theory - Midterm Exam Assignment1*
 
 ## Notice
-- Compiled in Visual Studio Code
+- Compiled in Visual Studio 2019
 - **DO NOT COPY**
 
 ## Contents
-- Infinite input calculator
-  - Operand length is infinite (until your memory withstands)
-  - Followed OOP concepts thoroughly(perspective of sophomore XD)
+- DFA-NFA-eNFA converter
+  - Symbols should be one character(char)
